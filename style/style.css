@@ -372,3 +372,10 @@ img {
     font-size: 1.5em;
   }
 }
+
+.footer {
+  display: flex;
+  background: #2c70ff;
+  height: 200px;
+  align-items: center;
+}
