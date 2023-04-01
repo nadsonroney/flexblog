@@ -379,3 +379,9 @@ img {
   height: 200px;
   align-items: center;
 }
+
+.footer p {
+  flex: 1;
+  text-align: center;
+  color: #122ab2;
+}
